@@ -1,0 +1,15 @@
+{
+  "name": "data-handler-sample",
+  "version": "1.0.0",
+  "description": "Read, process, and export JSON data into CSV files using Node.js",
+  "main": "convert.js",
+  "scripts": {
+    "start": "node convert.js",
+    "convert": "node convert.js"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
