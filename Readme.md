@@ -1,3 +1,8 @@
+![Node.js](https://img.shields.io/badge/Node.js-18.x-green)
+![License](https://img.shields.io/badge/License-MIT-blue)
+![Status](https://img.shields.io/badge/Status-Demo-yellow)
+
+
 ## 🟢 data-handler-sample — Data Transformation Utility
 
 ### 📘 Description
