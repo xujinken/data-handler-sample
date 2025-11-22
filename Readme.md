@@ -2,7 +2,7 @@
 
 ### 📘 Description
 
-This project shows how to read, process, and export JSON data into CSV files using Node.js. Perfect for demonstrating your data-handling skills.
+Simple Node.js tool for transforming JSON data into formatted CSV/Excel outputs.
 
 ### 🚀 Features
 
